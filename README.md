@@ -1,5 +1,5 @@
 ### Hi there I'm Rohan👋
-I am currently a student studying Computer Science, but am hoping to soon become a software engineer. My specialty is backend python development, but I am very interested in many other fields (such as Machine Learning, Data Engineering, Data Science, Web Development, and UI/UX). Most of all I love seeing and solving new problems, so if you have any interesting ones, throw them my way!
+
 <!--
 **kodatiro/kodatiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
